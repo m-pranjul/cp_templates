@@ -5,13 +5,19 @@
 
 using namespace std;
 
+void solve(){
+    int n;
+    cin >> n;
+    
+    return;
+}
+
 int main()
 {
-    vector<string> msg {"Hello", "C++", "World", "from", "VS Code", "and the C++ extension!"};
-
-    for (const string& word : msg)
-    {
-        cout << word << " ";
+    int t;
+    cin >> t;
+    while(t--){
+        solve();
     }
-    cout << endl;
+    return 0;
 }
