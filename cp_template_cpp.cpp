@@ -2,7 +2,8 @@
 #include <iostream>
 #include <vector>
 #include <string>
-
+#define inf 1e9+7;
+#define vector<int> vi;
 using namespace std;
 
 void solve(){
