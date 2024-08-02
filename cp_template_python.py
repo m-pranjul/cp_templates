@@ -23,6 +23,7 @@ def sls(): return [map(str,input().split())]
 def ils(): return [int(x) for x in input().split()]
 def ncr(n,r): return factorial(n)//(factorial(r)*factorial(n-r))
 def sils(): return sorted([int(x) for x in input().split()])
+def sq(x): return x**2
 def ceil(x,y):
     if x%y==0: return x//y
     else: return x//y+1
