@@ -4,6 +4,7 @@
 #include <string>
 #define inf 1e9+7;
 #define vector<int> vi;
+#define string str;
 using namespace std;
 
 void solve(){
