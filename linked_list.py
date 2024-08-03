@@ -14,3 +14,6 @@ class array:
         self.arr.append(val)
     def array_concat(self,arr1,arr2):
         return self.arr1 + self.arr2
+    def pop(self,arr) -> None:
+        self.arr.pop()
+        return
